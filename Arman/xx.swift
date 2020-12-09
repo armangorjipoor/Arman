@@ -15,5 +15,6 @@ class xx: UIView {
         // Drawing code
     }
     
+    // i simply add some comment
 
 }
