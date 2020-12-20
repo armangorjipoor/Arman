@@ -15,6 +15,7 @@
 		22DB1B9D2580BBA0005F30D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22DB1B9B2580BBA0005F30D8 /* LaunchScreen.storyboard */; };
 		22DB1BA82580BBA1005F30D8 /* ArmanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DB1BA72580BBA1005F30D8 /* ArmanTests.swift */; };
 		22DB1BB32580BBA1005F30D8 /* ArmanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22DB1BB22580BBA1005F30D8 /* ArmanUITests.swift */; };
+		22F1A681258D3BE9003EE4F6 /* VIewConre2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F1A680258D3BE9003EE4F6 /* VIewConre2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		22DB1BAE2580BBA1005F30D8 /* ArmanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArmanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22DB1BB22580BBA1005F30D8 /* ArmanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmanUITests.swift; sourceTree = "<group>"; };
 		22DB1BB42580BBA1005F30D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22F1A680258D3BE9003EE4F6 /* VIewConre2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VIewConre2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				22DB1B922580BB9E005F30D8 /* SceneDelegate.swift */,
 				22DB1B942580BB9E005F30D8 /* ViewController.swift */,
 				22DB1B962580BB9E005F30D8 /* Main.storyboard */,
+				22F1A680258D3BE9003EE4F6 /* VIewConre2.swift */,
 				22DB1B992580BBA0005F30D8 /* Assets.xcassets */,
 				22DB1B9B2580BBA0005F30D8 /* LaunchScreen.storyboard */,
 				22DB1B9E2580BBA0005F30D8 /* Info.plist */,
@@ -262,6 +265,7 @@
 				22DB1B952580BB9E005F30D8 /* ViewController.swift in Sources */,
 				22DB1B912580BB9E005F30D8 /* AppDelegate.swift in Sources */,
 				22DB1B932580BB9E005F30D8 /* SceneDelegate.swift in Sources */,
+				22F1A681258D3BE9003EE4F6 /* VIewConre2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
